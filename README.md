@@ -1,5 +1,7 @@
 # Programas de Capacitação para Desenvolvedores
 
+![Gif](https://i.giphy.com/media/l3fZO5GMbkHy2DIwE/giphy.gif)
+
 | PROGRAMA | INSTITUIÇÃO | MODALIDADE | DETALHES |
 |------|------|------|------|
 |Entra21|Blusoft|Presencial/ EAD|<div align="center">[▶️](./programs/entra21/entra21.md)</div>|
