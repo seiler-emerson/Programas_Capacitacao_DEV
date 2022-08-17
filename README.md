@@ -11,5 +11,6 @@
 |Ap.coders|Ap.controle|Presencial|<div align="center">[▶️](./programs/apCoders/apCoders.md)</div>|
 |Warren Tech Academy|Warren|Presencial|<div align="center">[▶️](./programs/warrenTechAcademy/warrenTechAcademy.md)</div>|
 |PremierSoft App Academy|PremierSoft|Presencial|<div align="center">[▶️](./programs/premierSoftAppAcademy/premierSoftAppAcademy.md)</div>|
+|Dev Ti SC|Fundação Unisul|Presencial/EAD|<div align="center">[▶️](./programs/devTiSc/devTiSc.md)</div>|
 
 ![Gif](./gif/catCode.gif)
