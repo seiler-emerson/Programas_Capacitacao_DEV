@@ -8,7 +8,7 @@
 
 |Capacitações| MODALIDADE |Local| SITE |
 |------|------|------|------|
-|iOS, API .NET, Qualidade de Software (QA)|Presencial/ Blumenau - SC|<div align="center">[▶️](https://appacademy.premiersoft.net/)</div>|
+|iOS, API .NET, Qualidade de Software (QA)|Presencial | Blumenau - SC|<div align="center">[▶️](https://appacademy.premiersoft.net/)</div>|
 
 
 ---

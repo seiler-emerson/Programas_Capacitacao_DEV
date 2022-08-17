@@ -1,7 +1,5 @@
 # Programas de Capacitação para Desenvolvedores
 
-![Gif](https://i.giphy.com/media/l3fZO5GMbkHy2DIwE/giphy.gif)
-
 | PROGRAMA | INSTITUIÇÃO | MODALIDADE | DETALHES |
 |------|------|------|------|
 |Entra21|Blusoft|Presencial/ EAD|<div align="center">[▶️](./programs/entra21/entra21.md)</div>|
@@ -13,3 +11,5 @@
 |Ap.coders|Ap.controle|Presencial|<div align="center">[▶️](./programs/apCoders/apCoders.md)</div>|
 |Warren Tech Academy|Warren|Presencial|<div align="center">[▶️](./programs/warrenTechAcademy/warrenTechAcademy.md)</div>|
 |PremierSoft App Academy|PremierSoft|Presencial|<div align="center">[▶️](./programs/premierSoftAppAcademy/premierSoftAppAcademy.md)</div>|
+
+![Gif](./gif/catCode.gif)
